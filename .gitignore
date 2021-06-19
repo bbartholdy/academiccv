@@ -18,4 +18,5 @@ cv.pdf
 
 *_cache/
 render_cv.r
+!inst/templates/render_cv.r
 inst/doc
