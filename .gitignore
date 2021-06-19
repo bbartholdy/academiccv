@@ -6,6 +6,7 @@
 .DS_Store
 
 cv.rmd
+!inst/templates/cv.rmd
 
 dd_cv.css
 
