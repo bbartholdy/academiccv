@@ -22,6 +22,7 @@ Imports:
     pagedown,
     fs,
     icons (>= 0.1.0),
+    fontawesome,
     whisker
 RoxygenNote: 7.0.2
 Roxygen: list(markdown = TRUE)

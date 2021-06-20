@@ -28,6 +28,8 @@ CV <- create_CV_object(
 
 ```
 
+<!-- not very elegant solution for using academicons -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 ```{r}
 # When in pdf export mode the little dots are unaligned, so fix that with some conditional CSS.
